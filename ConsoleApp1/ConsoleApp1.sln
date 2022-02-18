@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1.csproj", "{8A669D66-681E-4FE2-B17E-6E7AAFC6DFE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{75648B63-1B70-4F79-A292-F2B2DDCD3AC4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\1\Desktop\NmarketTestTask\NmarketTestTask\Files\Excel\1.xlsx = ..\..\Users\1\Desktop\NmarketTestTask\NmarketTestTask\Files\Excel\1.xlsx
+		..\..\Users\1\Desktop\NmarketTestTask\NmarketTestTask\Files\Excel\2.xlsx = ..\..\Users\1\Desktop\NmarketTestTask\NmarketTestTask\Files\Excel\2.xlsx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A669D66-681E-4FE2-B17E-6E7AAFC6DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A669D66-681E-4FE2-B17E-6E7AAFC6DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A669D66-681E-4FE2-B17E-6E7AAFC6DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A669D66-681E-4FE2-B17E-6E7AAFC6DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F547D0DF-C813-45D0-BA17-7CBAF0E9413C}
+	EndGlobalSection
+EndGlobal
